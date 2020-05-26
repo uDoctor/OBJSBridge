@@ -1,0 +1,6 @@
+framework module OBJSBridge {
+  umbrella header "OBJSBridge-umbrella.h"
+
+  export *
+  module * { export * }
+}

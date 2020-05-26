@@ -1,0 +1,16 @@
+PODS:
+  - OBJSBridge (1.0.0)
+
+DEPENDENCIES:
+  - OBJSBridge (from `../`)
+
+EXTERNAL SOURCES:
+  OBJSBridge:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OBJSBridge: 2dbf301aae1258bbd40ec8ed494c13530134ed8e
+
+PODFILE CHECKSUM: 9e23d3ff869d35a96a6960fa3c1ce6ef72927477
+
+COCOAPODS: 1.8.4

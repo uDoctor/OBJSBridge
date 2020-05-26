@@ -1,0 +1,6 @@
+framework module Pods_OBJSBridge_Tests {
+  umbrella header "Pods-OBJSBridge_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
